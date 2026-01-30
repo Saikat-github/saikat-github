@@ -26,6 +26,6 @@ I'm a Web Developer with a passion of creating impactful and scalable web applic
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=saikat-github&theme=dracula" />
-</p>
+</p> -->
