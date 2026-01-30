@@ -15,9 +15,6 @@ I'm a Web Developer with a passion of creating impactful and scalable web applic
 &nbsp;&nbsp;
 [![LinkedIn Light](./img/linkedin-light.svg)](linkedin.com/in/saikat-saha1#gh-light-mode-only)
 [![LinkedIn Dark](./img/linkedin-dark.svg)](linkedin.com/in/saikat-saha1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![Instagram Light](./img/instagram-light.svg)]
-[![Instagram Dark](./img/instagram-dark.svg)]
 
 </div>
 
@@ -30,5 +27,5 @@ I'm a Web Developer with a passion of creating impactful and scalable web applic
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=wasimreja&theme=dracula" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=saikat-github&theme=dracula" />
 </p>
