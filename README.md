@@ -1,14 +1,12 @@
 # Hi, I'm Saikat 👋
 
 Self-taught MERN stack developer. I build full-stack production systems — not tutorials. Every project in this profile was designed, built, and shipped by me.
-<hr>
-
 
 
 
 ## What I work with
 
-**Frontend** — React, TailwindCSS, React Hook Form, Context API, Socket.io-client  
+**Frontend** — React, TailwindCSS, React Hook Form, Redux, Context API, Socket.io-client  
 **Backend** — Node.js, Express.js, REST APIs, Passport.js (Local + Google OAuth), JWT  
 **Database** — MongoDB, Mongoose (aggregation pipeline, transactions, sparse indexing, migration)  
 **Payments** — Razorpay (HMAC webhook), Stripe  
@@ -16,7 +14,6 @@ Self-taught MERN stack developer. I build full-stack production systems — not 
 **Auth** — Email OTP (crypto-secure), Google OAuth, RBAC  
 **Other** — Cloudinary, Resend, Cron Jobs, Rate Limiting, Winston Logger, Input Sanitization  
 
----
 
 ## Featured Projects
 
@@ -32,7 +29,6 @@ Personal training intake + trainer management platform — client onboarding, tr
 ### 🖼️ [BG Removal](https://github.com/Saikat-github/bg-removal)
 AI-powered background remover — Clerk auth, Stripe credit system, clean minimal UI.
 
----
 
 ## Background
 
