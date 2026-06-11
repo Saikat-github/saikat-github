@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋🏽, I'm Saikat Saha</h1>
-<h3 align="center">Full Stack Developer based in India</h3>
+# Hi, I'm Saikat 👋
+
+Self-taught MERN stack developer. I build full-stack production systems — not tutorials. Every project in this profile was designed, built, and shipped by me.
 <hr>
 <p align="center"> <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" /> 
 </p>
 
-
-
 <hr>
 
-# Hi, I'm Saikat 👋
 
-Self-taught MERN stack developer. I build full-stack production systems — not tutorials. Every project in this profile was designed, built, and shipped by me.
 
 ---
 
