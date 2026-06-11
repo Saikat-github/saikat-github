@@ -2,8 +2,7 @@
 
 Self-taught MERN stack developer. I build full-stack production systems — not tutorials. Every project in this profile was designed, built, and shipped by me.
 <hr>
-<p align="center"> <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" /> 
-</p>
+
 
 
 
