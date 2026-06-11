@@ -20,14 +20,16 @@ Self-taught MERN stack developer. I build full-stack production systems — not 
 ### 🏋️ [Minimalist Gyms](https://github.com/Saikat-github/minimalistgyms)
 Production gym management platform — online admission, Razorpay payments with webhook verification, RBAC admin panel (super admin + limited admins via DB migration), automated membership renewal via cron, Mongoose session-based atomic account deletion, holiday alerts, member/payment filtering.
 
+### 🖼️ [Burdwan Turfl](https://github.com/Saikat-github/burdwan-turf)
+A production-grade MERN booking platform built for a real paying client — handled the full lifecycle from proposal, design demo, and phased billing to deployment. Users can browse available slots and book online or pay at venue; the owner manages everything through a separate secured dashboard.
+
 ### 🩺 [BookMyDoctor](https://github.com/Saikat-github/bookmydoctor)
 Three-sided appointment platform — real-time serial queue via Socket.io, atomic serial assignment with MongoDB `$inc`, doctor subscription billing via Razorpay, custom QR per patient, reCAPTCHA-protected booking, 14-day dynamic availability calendar, patient demographics dashboard.
 
 ### 🥗 [Zerodiet](https://github.com/Saikat-github/zerodiet)
 Personal training intake + trainer management platform — client onboarding, training/diet plan delivery, progress tracking, payment reminders, client filtering.
 
-### 🖼️ [BG Removal](https://github.com/Saikat-github/bg-removal)
-AI-powered background remover — Clerk auth, Stripe credit system, clean minimal UI.
+
 
 
 ## Background
