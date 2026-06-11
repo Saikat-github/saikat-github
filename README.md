@@ -4,27 +4,50 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="300" /> 
 </p>
 
-<p align="center">
-I'm a Web Developer with a passion of creating impactful and scalable web applications using latest trends and technologies.
-</p>
 
-<div align="center">
-    
-[![Twitter Light](./img/twitter-light.svg)](https://x.com/Saikaatsaha#gh-light-mode-only)
-[![Twitter Dark](./img/twitter-dark.svg)](https://x.com/Saikaatsaha#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![LinkedIn Light](./img/linkedin-light.svg)](linkedin.com/in/saikat-saha1#gh-light-mode-only)
-[![LinkedIn Dark](./img/linkedin-dark.svg)](linkedin.com/in/saikat-saha1#gh-dark-mode-only)
-
-</div>
 
 <hr>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,cpp,css,figma,gcp,git,html,js,linux,nextjs,py,react,redux,sass,tailwind,ts,vscode" />
-  </a>
-</p>
+# Hi, I'm Saikat 👋
+
+Self-taught MERN stack developer. I build full-stack production systems — not tutorials. Every project in this profile was designed, built, and shipped by me.
+
+---
+
+## What I work with
+
+**Frontend** — React, TailwindCSS, React Hook Form, Context API, Socket.io-client  
+**Backend** — Node.js, Express.js, REST APIs, Passport.js (Local + Google OAuth), JWT  
+**Database** — MongoDB, Mongoose (aggregation pipeline, transactions, sparse indexing, migration)  
+**Payments** — Razorpay (HMAC webhook), Stripe  
+**Real-time** — WebSocket, Socket.io  
+**Auth** — Email OTP (crypto-secure), Google OAuth, RBAC  
+**Other** — Cloudinary, Resend, Cron Jobs, Rate Limiting, Winston Logger, Input Sanitization  
+
+---
+
+## Featured Projects
+
+### 🏋️ [Minimalist Gyms](https://github.com/Saikat-github/minimalistgyms)
+Production gym management platform — online admission, Razorpay payments with webhook verification, RBAC admin panel (super admin + limited admins via DB migration), automated membership renewal via cron, Mongoose session-based atomic account deletion, holiday alerts, member/payment filtering.
+
+### 🩺 [BookMyDoctor](https://github.com/Saikat-github/bookmydoctor)
+Three-sided appointment platform — real-time serial queue via Socket.io, atomic serial assignment with MongoDB `$inc`, doctor subscription billing via Razorpay, custom QR per doctor, reCAPTCHA-protected booking, 14-day dynamic availability calendar, patient demographics dashboard.
+
+### 🥗 [Zerodiet](https://github.com/Saikat-github/zerodiet)
+Personal training intake + trainer management platform — client onboarding, training/diet plan delivery, progress tracking, payment reminders, client filtering.
+
+### 🖼️ [BG Removal](https://github.com/Saikat-github/bg-removal)
+AI-powered background remover — Clerk auth, Stripe credit system, clean minimal UI.
+
+---
+
+## Background
+
+No CS degree. Everything I know came from building real things and figuring out why they broke.  
+2+ years of consistent practice → freelance clients → production deployments.
+
+📫 sahasaikat782@gmail.com
 
 <!-- <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=saikat-github&theme=dracula" />
