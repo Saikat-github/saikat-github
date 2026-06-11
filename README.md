@@ -25,7 +25,7 @@ Self-taught MERN stack developer. I build full-stack production systems — not 
 Production gym management platform — online admission, Razorpay payments with webhook verification, RBAC admin panel (super admin + limited admins via DB migration), automated membership renewal via cron, Mongoose session-based atomic account deletion, holiday alerts, member/payment filtering.
 
 ### 🩺 [BookMyDoctor](https://github.com/Saikat-github/bookmydoctor)
-Three-sided appointment platform — real-time serial queue via Socket.io, atomic serial assignment with MongoDB `$inc`, doctor subscription billing via Razorpay, custom QR per doctor, reCAPTCHA-protected booking, 14-day dynamic availability calendar, patient demographics dashboard.
+Three-sided appointment platform — real-time serial queue via Socket.io, atomic serial assignment with MongoDB `$inc`, doctor subscription billing via Razorpay, custom QR per patient, reCAPTCHA-protected booking, 14-day dynamic availability calendar, patient demographics dashboard.
 
 ### 🥗 [Zerodiet](https://github.com/Saikat-github/zerodiet)
 Personal training intake + trainer management platform — client onboarding, training/diet plan delivery, progress tracking, payment reminders, client filtering.
@@ -38,10 +38,6 @@ AI-powered background remover — Clerk auth, Stripe credit system, clean minima
 ## Background
 
 No CS degree. Everything I know came from building real things and figuring out why they broke.  
-2+ years of consistent practice → freelance clients → production deployments.
+1+ years of consistent practice → freelance clients → production deployments.
 
 📫 sahasaikat782@gmail.com
-
-<!-- <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=saikat-github&theme=dracula" />
-</p> -->
